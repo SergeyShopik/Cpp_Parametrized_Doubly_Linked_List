@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\DualListClass\Debug\DualListClass.exe
+C:\Users\HP\source\repos\DualListClass\Debug\DualListClass.pdb
